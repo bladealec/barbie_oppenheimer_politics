@@ -1,6 +1,9 @@
 ## Overview
 This Python script performs a data analytics project that analyzes the difference in interest between the movies 'Barbie' and 'Oppenheimer' in various US states. The project aims to visualize this difference on a US map and determine which movie generated more interest across different regions.
 
+## Source of Inspiration
+This analysis was motivated by an article from the Daily Mail, available at [this link](https://www.dailymail.co.uk/news/article-12331625/Barbenheimer-map-reveals-Democrat-voting-states-favor-birth-bomb-movie-Trump-voters-drawn-camp-world-pink.html). The article suggested that the difference in interest in the movies "Barbie" and "Oppenheimer" closely resembled the electoral college map. However, the findings from this data analytics project might present a different perspective on the matter.
+
 ## Prerequisites
 Make sure you have the following installed before running the script:
 - Python 3.x
