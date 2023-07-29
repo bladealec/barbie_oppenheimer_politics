@@ -4,6 +4,20 @@ This Python script performs a data analytics project that analyzes the differenc
 ## Source of Inspiration
 This analysis was motivated by an article from the Daily Mail, available at [this link](https://www.dailymail.co.uk/news/article-12331625/Barbenheimer-map-reveals-Democrat-voting-states-favor-birth-bomb-movie-Trump-voters-drawn-camp-world-pink.html). The article suggested that the difference in interest in the movies "Barbie" and "Oppenheimer" closely resembled the electoral college map. However, the findings from this data analytics project might present a different perspective on the matter.
 
+## Images
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex-basis: 30%;">
+    <p align="left">Image 1: Graph From My Findings</p>
+    <img src="./US_BarbHeimer_Interest_Map.jpeg" alt="Barbie vs. Oppenheimer Interest Map" width="45%">
+  </div>
+  <div style="flex-basis: 30%;">
+    <p align="left">Image 2: Graph From News Source</p>
+    <img src="./original_barbheimer_map.jpeg" alt="Movie Comparison Graph" width="45%">
+  </div>
+</div>
+
+
 ## Prerequisites
 Make sure you have the following installed before running the script:
 - Python 3.x
